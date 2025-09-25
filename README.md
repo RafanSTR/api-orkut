@@ -22,8 +22,8 @@ Ikuti langkah-langkah berikut untuk menjalankan API ini:
 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/username/reponame.git
-cd reponame
+git clone https://github.com/RafanSTR/api-orkut.git
+cd api-orkut
 ```
 
 ### 2. Buat virtual environment (opsional tapi direkomendasikan)
