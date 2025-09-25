@@ -105,10 +105,10 @@ http://0.0.0.0:5000
 
 Contoh menggunakan `cURL`:
 ```bash
-curl -X POST http://localhost:5000/mutasi      -H "Content-Type: application/json"      -d '{
-           "username": "demo_user",
-           "token": "12345:abcdeFGHIJK"
-         }'
+curl -X POST http://localhost:5000/mutasi \
+-H "Content-Type: application/json" \
+-d '{ "username": "demo_user", "token": "12345:abcdeFGHIJK" }'
+
 ```
 
 ---
